@@ -35,7 +35,7 @@ export default function Form() {
         value={answer}
         onChange={handleChange}
       />
-      <button className="bg-sky-700 font-bold p-4" type="submit">
+      <button className="bg-sky-700 font-bold p-4 text-white" type="submit">
         CHECAR RESPOSTA
       </button>
     </form>
